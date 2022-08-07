@@ -260,9 +260,6 @@ java -jar cim-client-1.0.0-SNAPSHOT.jar --server.port=8084 --cim.user.id=上方�
 
 ## 联系作者
 - [crossoverJie@gmail.com](mailto:crossoverJie@gmail.com)
-- 微信公众号
-
-![index.jpg](https://i.loli.net/2021/10/12/ckQW9LYXSxFogJZ.jpg)
 
 
 
